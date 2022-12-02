@@ -1,0 +1,3 @@
+#!/bin/bash   
+# used to instruct the operating system to use bash as a command interpreter
+echo "hello there" # prints out "hello there" onto the screen
